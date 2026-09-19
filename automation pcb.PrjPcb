@@ -1118,6 +1118,9 @@ Net10=NetName=Net*_37|NetColor=$00FF6EFF
 Net11=NetName=Net*_7|NetColor=$00FF6EFF
 Net12=NetName=Net*_8|NetColor=$00FF6EFF
 Net13=NetName=NetC1_1|NetColor=$0053B23B
+Net14=NetName=NetC4_2|NetColor=$006E6EFF
+Net15=NetName=NetESP_33|NetColor=$00FF6EFF
+Net16=NetName=NetESP_36|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
