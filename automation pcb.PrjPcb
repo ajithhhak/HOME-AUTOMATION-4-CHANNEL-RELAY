@@ -52,6 +52,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\ajith\Documents\AltiumLL\SamacSys.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPRJBCLL
+
+[Document2]
+DocumentPath=..\..\..\..\ajith\Documents\AltiumLL\SamacSys.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NGLTGAHM
+
+[Document3]
 DocumentPath=..\PCBauto.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJMSODWT
 
-[Document2]
+[Document4]
 DocumentPath=..\HomeAutomation\SchematicAUTO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XJDKDOIN
 
-[Document3]
+[Document5]
 DocumentPath=automation pcb.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -101,6 +135,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for automation pcb\Design Rule Check - PCBauto.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
@@ -1174,31 +1212,33 @@ Net10=NetName=Net*_35|NetColor=$00FF6E6E
 Net11=NetName=Net*_37|NetColor=$00FF6EFF
 Net12=NetName=Net*_7|NetColor=$00FF6EFF
 Net13=NetName=Net*_8|NetColor=$00FF6EFF
-Net14=NetName=NetB?_2|NetColor=$00FF6E6E
-Net15=NetName=NetBOOT_2|NetColor=$00FF6E6E
-Net16=NetName=NetC1_1|NetColor=$0053B23B
-Net17=NetName=NetC10_2|NetColor=$00B5C9CF
-Net18=NetName=NetC4_2|NetColor=$006E6EFF
-Net19=NetName=NetC9_2|NetColor=$00FF6E6E
-Net20=NetName=NetDISPLAY_3|NetColor=$00FF6EFF
-Net21=NetName=NetDISPLAY_4|NetColor=clYellow
-Net22=NetName=NetESP_10|NetColor=clRed
-Net23=NetName=NetESP_11|NetColor=clRed
-Net24=NetName=NetESP_12|NetColor=clRed
-Net25=NetName=NetESP_16|NetColor=$00220EEE
-Net26=NetName=NetESP_25|NetColor=$0087000C
-Net27=NetName=NetESP_27|NetColor=$00C3E9AE
-Net28=NetName=NetESP_28|NetColor=$00C3E9AE
-Net29=NetName=NetESP_30|NetColor=$00220EEE
-Net30=NetName=NetESP_31|NetColor=$00C7D9DC
-Net31=NetName=NetESP_33|NetColor=$00FF6EFF
-Net32=NetName=NetESP_34|NetColor=$0087000C
-Net33=NetName=NetESP_35|NetColor=$0087000C
-Net34=NetName=NetESP_36|NetColor=$00FF6E6E
-Net35=NetName=NetESP_37|NetColor=$00220EEE
-Net36=NetName=NetESP_8|NetColor=$00220EEE
-Net37=NetName=NetESP_9|NetColor=clRed
-Net38=NetName=Netfuse_2|NetColor=$00020D08
+Net14=NetName=Net5 - 3V3_1|NetColor=$0000BE00
+Net15=NetName=Net5 - 3V3_2|NetColor=$006E6EFF
+Net16=NetName=NetB?_2|NetColor=$00FF6E6E
+Net17=NetName=NetBOOT_2|NetColor=$00FF6E6E
+Net18=NetName=NetC1_1|NetColor=$0053B23B
+Net19=NetName=NetC10_2|NetColor=$00B5C9CF
+Net20=NetName=NetC4_2|NetColor=$006E6EFF
+Net21=NetName=NetC9_2|NetColor=$00FF6E6E
+Net22=NetName=NetDISPLAY_3|NetColor=$00FF6EFF
+Net23=NetName=NetDISPLAY_4|NetColor=clYellow
+Net24=NetName=NetESP_10|NetColor=clRed
+Net25=NetName=NetESP_11|NetColor=clRed
+Net26=NetName=NetESP_12|NetColor=clRed
+Net27=NetName=NetESP_16|NetColor=$00220EEE
+Net28=NetName=NetESP_25|NetColor=$0087000C
+Net29=NetName=NetESP_27|NetColor=$00C3E9AE
+Net30=NetName=NetESP_28|NetColor=$00C3E9AE
+Net31=NetName=NetESP_30|NetColor=$00220EEE
+Net32=NetName=NetESP_31|NetColor=$00C7D9DC
+Net33=NetName=NetESP_33|NetColor=$00FF6EFF
+Net34=NetName=NetESP_34|NetColor=$0087000C
+Net35=NetName=NetESP_35|NetColor=$0087000C
+Net36=NetName=NetESP_36|NetColor=$00FF6E6E
+Net37=NetName=NetESP_37|NetColor=$00220EEE
+Net38=NetName=NetESP_8|NetColor=$00220EEE
+Net39=NetName=NetESP_9|NetColor=clRed
+Net40=NetName=Netfuse_2|NetColor=$00020D08
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
